@@ -1,7 +1,7 @@
 # 🔷  Flowly | SaaS Product & Customer Intelligence Analytics
 
 <p align="center">
-  <img src="assets/flowly_logo.png" width="140">
+  <img src="assets/Flowly_Logo.png" width="140">
 </p>
 
 
