@@ -2,7 +2,7 @@
 <tr>
 
 <td width="180" align="center">
-  <img src="assets/Flowly_Logo.png" width="160" alt="Flowly Logo">
+  <img src="assets/Flowly_Dashboad_Logo.png" width="160" alt="Flowly Logo">
 </td>
 
 <td>
