@@ -1,31 +1,40 @@
-# 🔷  Flowly | SaaS Product & Customer Intelligence Analytics
+<table>
+<tr>
 
-<p align="center">
-  <img src="assets/Flowly_Logo.png" width="140">
-</p>
+<td width="180" align="center">
+  <img src="assets/Flowly_Logo.png" width="160" alt="Flowly Logo">
+</td>
 
+<td>
 
-<p align="center">
+<h1>Flowly | SaaS Product & Customer Intelligence Analytics</h1>
+
+<p>
   <strong>End-to-End SaaS Data Analytics & Business Intelligence Project</strong>
 </p>
 
+</td>
+
+</tr>
+</table>
+
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-Data%20Analytics-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-F57C00?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge)
 
 </p>
 
 <p align="center">
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Data%20Analytics-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Data%20Analytics-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Business%20Intelligence-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Customer Analytics](https://img.shields.io/badge/Customer%20Analytics-Intelligence-796BF6?style=for-the-badge)
 ![Cohort Analysis](https://img.shields.io/badge/Cohort%20Analysis-Retention-0875F8?style=for-the-badge)
-![Project](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-Completed-2EA043?style=for-the-badge)
 
 </p>
 
