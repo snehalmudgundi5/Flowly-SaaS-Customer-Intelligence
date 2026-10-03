@@ -1,0 +1,8 @@
+table_name,grain,purpose
+customers,1 row = 1 customer/company account,"Customer profile, segmentation, geography, signup cohort"
+subscriptions,1 row = 1 subscription,"Plan, seats, pricing, churn/end date"
+users,1 row = 1 Flowly user,Users within each customer account
+user_activity,1 row = 1 product activity event,"Engagement, sessions, event behavior"
+feature_usage,1 row = 1 feature usage record,Product adoption and feature intensity
+payments,1 row = 1 monthly payment,"Revenue, MRR, payment status"
+support_tickets,1 row = 1 support ticket,Support experience and customer health
